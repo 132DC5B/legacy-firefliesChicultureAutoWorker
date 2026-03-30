@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> 本專案已停止支援，欲取得新版請前往 [這裡](https://github.com/132DC5B/FirefliesChicultureAutoWorker)
 # FirefliesChicultureAutoWorker
 
 ![Location](https://img.shields.io/badge/Made_by_🇭🇰-Behind_the_GFW-red)
@@ -10,9 +12,6 @@
 ![Windows](https://img.shields.io/badge/Windows-x86_64-0078D4?logo=microsoft&logoColor=white)
 
 ### 這是一個專為篇篇流螢所開發的自動答題桌面工具。
-
-> [!IMPORTANT]
-> 本專案已停止支援，欲取得新版請前往 [這裡](https://github.com/132DC5B/FirefliesChicultureAutoWorker)
 
 ## 開始使用 (CLI)
 
