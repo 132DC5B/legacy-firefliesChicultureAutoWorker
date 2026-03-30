@@ -1,5 +1,14 @@
 # FirefliesChicultureAutoWorker
 
+![Location](https://img.shields.io/badge/Made_by_🇭🇰-Behind_the_GFW-red)
+![FK GFW](https://img.shields.io/badge/F**K_GFW-FURIOUS_about_the_network_latency-black)
+
+![VS](https://img.shields.io/badge/IDE-Visual%20Studio-007ACC)
+
+![C](https://img.shields.io/badge/C++-00599c?logo=cplusplus&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-x86_64-0078D4?logo=microsoft&logoColor=white)
+
 ### 這是一個專為篇篇流螢所開發的自動答題桌面工具。
 
 > [!IMPORTANT]
